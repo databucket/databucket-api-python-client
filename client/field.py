@@ -1,0 +1,10 @@
+class Field:
+    BUNDLE_ID = 'bundle_id'
+    TAG_NAME = 'tag_name'
+    LOCKED = 'locked'
+    LOCKED_BY = 'locked_by'
+    PROPERTIES = 'properties'
+    CREATED_AT = 'created_at'
+    CREATED_BY = 'created_by'
+    UPDATED_AT = 'updated_at'
+    UPDATED_BY = 'updated_by'

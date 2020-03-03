@@ -1,0 +1,11 @@
+class Property:
+    FIRST_NAME = "firstName"
+    LAST_NAME = "lastName"
+    COMPANY = "company"
+    ADDRESS = "address"
+    CITY = "city"
+    STATE = "state"
+    POST = "post"
+    PHONE = "contact.phone"
+    EMAIL = "contact.email"
+    WEB = "web"

@@ -1,0 +1,2 @@
+class Bucket:
+    USERS = 'users'
